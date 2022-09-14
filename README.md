@@ -1,6 +1,8 @@
 # udpclient
 This repository contains a MyUdpClient.java program and a UdpServer.java program.
+
 The Client repeatedly prompts the user to type a sentence until the user types "Goodbye".
+
 Before prompting the user for the next sentence, the Client sends the inputted sentence to the Server and the Server returns a capitalized version of the sentence to the Client. 
 
 
